@@ -142,7 +142,7 @@ Date: 11/07/2025
 
 
 ---
-📋 CleanCity Web App – QA Test Cases  
+📋 CleanCity App – QA Test Cases  
 
 Author: Vuthlari Mabaso 
 
