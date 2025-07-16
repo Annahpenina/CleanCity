@@ -28,8 +28,8 @@ End-to-end functional, non-functional, accessibility, and boundary test cases
 
 ### Functional Test Cases
 
-| TC ID  | Title                         | Preconditions         | Steps                                                                 | Expected Result                       
-|--------|-------------------------------|-----------------------|-----------------------------------------------------------------------|----------------------------------------|----------|---------|
+| TC ID  | Title                         | Preconditions         | Steps                                                                 | Expected Result |                      
+|--------|-------------------------------|-----------------------|-----------------------------------------------------------------------|--------------------- |
 | TC-01  | User Registration             | Open App in browser   | 1. Go to registration<br>2. Enter valid name, email, password<br>3. Click Register | Success message appears, user added    |          |         |
 | TC-02  | User Login                    | User account exists   | 1. Go to login<br>2. Enter valid email, password<br>3. Click Login    | Redirected to dashboard                |          |         |
 | TC-03  | Invalid Login Attempt         | None                  | 1. Go to login<br>2. Enter invalid email/password<br>3. Click Login   | Error: "Invalid credentials"           |          |         |
