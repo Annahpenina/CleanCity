@@ -11,13 +11,13 @@
 
  **Phase 2: Test Design**
 
- **Test Objectives**
+ # Test Objectives
    - Verify that all features of the Clean City Waste Pickup Scheduler function correctly.
    - Validate the application’s performance under different conditions.
    - Ensure compatibility across various browsers and devices.
 
 
- **Test Scope**
+ # Test Scope
 |In Scope           	               |Out of Scope                 |
 |-----------------------------------|-----------------------------|
 |Waste pickup request forms 	      |Backend API (serverless)     |
@@ -25,7 +25,7 @@
 |Dashboard filtering	               |Real-time push notifications |
 
 
-**Test Cases**
+# Test Cases 
 **Functional Test Cases**
 
 |Test Case ID	|Title	                          |Preconditions	             |Steps to Execute 	                                                                                                       |Status     |
@@ -57,7 +57,7 @@
 
 ```
 
-**Cross-Browser Testing** (via BrowserStack)
+# Cross-Browser Testing  (via BrowserStack)
 **Browsers tested:**
 - Google Chrome v138
 - Mozilla Firefox v140
@@ -77,7 +77,7 @@ Key outcomes:
 |Cross-Browser | 1      | 1      | 1      | 0     |
 ```
 
-**Test Users and Sample Content**
+# Test Users and Sample Content
 User Role	Test User Account	Purpose
 Regular	testuser@example.com	Pickup & feedback test
 Admin	admin@cleancity.gov	Dashboard, filters, status updates
