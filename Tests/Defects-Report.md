@@ -1,12 +1,12 @@
 ## 🐞 Defects Report
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📚 Title : Accessibility Issues
-📰 Description : Missing ARIA attributes: No ARIA roles or labels for navigation, forms, or error messages. This may hinder screen reader users.
+📚 Title : Input
+📰 Description : Full Name ID field accepts long inputs 
 
 Environment : Chrome
 
-Severity : Critical
+Severity : Minor
 
 Priority : High
 
