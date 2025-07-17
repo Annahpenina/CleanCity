@@ -2,6 +2,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📚 Title : Input
+
 📰 Description : Full Name ID field accepts long inputs 
 
 Environment : Chrome
@@ -12,7 +13,8 @@ Priority : High
 
 
 
-📚 Title : Form Validation and Usability
+📚 Title : Form Validation and Usability 
+
 📰 Description : No feedback on successful/failed form submission: Success and error messages are present but hidden by default; unclear if they are shown on actual submission. 
 
 Environment : Chrome 
@@ -25,6 +27,7 @@ Priority : High
 
 
 📚 Title : Security Concerns regarding login details
+
 📰 Description : Demo credentials: Demo accounts are shown on the login page, which is fine for a demo but should be removed for production.
 
 Environment : Chrome 
@@ -38,6 +41,7 @@ Priority : Low - Remove before production
 
 
 📚 Title : User Experience
+
 📰 Description : No loading indicators: No feedback for users during async operations (e.g., form submission, dashboard loading).
 
 Environment : Chrome 
