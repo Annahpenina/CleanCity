@@ -76,12 +76,12 @@ End-to-end functional, non-functional, accessibility, and boundary test cases
 
 ### Cross-Browser Compatibility
 
-| TC ID   | Title                | Preconditions | Steps                            | Expected Result                | 
-|---------|----------------------|--------------|----------------------------------|-------------------------------|
-| TC-XB1  | Chrome v138          | App deployed | Open app, use all main features  | No layout/functionality issues |         
-| TC-XB2  | Firefox v140         | App deployed | Open app, use all main features  | No layout/functionality issues |               
-| TC-XB3  | Safari (macOS/iOS)   | App deployed | Open app, use all main features  | No layout/functionality issues |      
-| TC-XB4  | Edge v138            | App deployed | Open app, use all main features  | No layout/functionality issues |       
+| TC ID   | Title                | Steps                            | Expected Result                | 
+|---------|----------------------|--------------|----------------------------------|-----------------|
+| TC-XB1  | Chrome               | Open app, use all main features  | No layout/functionality issues |         
+| TC-XB2  | Firefox              | Open app, use all main features  | No layout/functionality issues |               
+| TC-XB3  | Safari (macOS/iOS)   | Open app, use all main features  | No layout/functionality issues |      
+| TC-XB4  | Edge                 | Open app, use all main features  | No layout/functionality issues |       
 
 ---
 
@@ -89,11 +89,11 @@ End-to-end functional, non-functional, accessibility, and boundary test cases
 
 | Bug ID         | Description                 | Severity | Status | Linked Test Case(s)    |
 |----------------|----------------------------|----------|--------|------------------------|
-| BUG-FV-01      | Missing date validation     | Medium   | Open   | TC-BOUND3              |
+| BUG-FV-01      | Missing date validation     | High  | Open   | TC-BOUND3              |
 | BUG-FV-02      | Password min length missing | Medium   | Open   | TC-BOUND4              |
-| BUG-FV-03      | Passwords not matched       | Medium   | Open   | TC-BOUND5              |
+| BUG-FV-03      | Passwords not matched       | High   | Open   | TC-BOUND5              |
 | BUG-FILT-01    | Hardcoded filter            | High     | Open   | TC-08, TC-09           |
-| BUG-ACC-01     | Missing alt-text on images  | Medium   | Open   | TC-ACC2                |
+| BUG-ACC-01     | Missing alt-text on images  | High   | Open   | TC-ACC2                |
 | BUG-UI-01      | UI does not auto-update     | Medium   | Open   | TC-07                  |
 | BUG-BOUND-01   | Name >100 chars accepted    | Medium   | Open   | TC-BOUND1              |
 | BUG-BOUND-02   | RequestID heap overflow     | High     | Open   | TC-BOUND2              |
