@@ -77,7 +77,7 @@ End-to-end functional, non-functional, accessibility, and boundary test cases
 ### Cross-Browser Compatibility
 
 | TC ID   | Title                | Steps                            | Expected Result                | 
-|---------|----------------------|--------------|----------------------------------|-----------------|
+|---------|----------------------|----------------------------------|--------------------------------|
 | TC-XB1  | Chrome               | Open app, use all main features  | No layout/functionality issues |         
 | TC-XB2  | Firefox              | Open app, use all main features  | No layout/functionality issues |               
 | TC-XB3  | Safari (macOS/iOS)   | Open app, use all main features  | No layout/functionality issues |      
