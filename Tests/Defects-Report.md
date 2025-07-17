@@ -13,6 +13,8 @@ Priority : High
 
 
 
+
+
 📚 Title : Form Validation and Usability 
 
 📰 Description : No feedback on successful/failed form submission: Success and error messages are present but hidden by default; unclear if they are shown on actual submission. 
@@ -35,6 +37,7 @@ Environment : Chrome
 Severity : Critical 
 
 Priority : Low - Remove before production
+
 
 
 
