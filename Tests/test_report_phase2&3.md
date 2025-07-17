@@ -47,7 +47,7 @@
 
 ```
 
-**Non-Functional Test Cases**
+# Non-Functional Test Cases
 
 |Test Case ID| Title          | Preconditions            | Steps to Execute	         	                                 | Status            |
 |------------|----------------|--------------------------|-----------------------------------------------------------------|-------------------|
