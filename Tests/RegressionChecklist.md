@@ -14,3 +14,8 @@ Verify the critical flows and bugfixes after changes are made and making sure ev
 | Awareness Access    | Passed     | Article loads   |
 | Profile Edit        | Manual     | Saved           |
 | Profile access guard | Cypress    | Route Guard     |
+
+
+🖇Linked Files :
+
+ Defect-Report.md
