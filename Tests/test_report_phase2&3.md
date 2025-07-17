@@ -1,17 +1,17 @@
-CleanCity QA Test Report – Phase 2 & 3
+🫧CleanCity QA Test Report – Phase 2 & 3
 
-Project: CleanCity App 
+📽️Project: CleanCity App 
 
-Software Tester: Nompumele A. Mthembu
+  Software Tester: Nompumele A. Mthembu
 
-Report Date: 11 July 2025
+  Report Date: 11 July 2025
 
-Phases Covered: Phase 2 (Test Design), Phase 3 (Execution)
+  Phases Covered: Phase 2 (Test Design), Phase 3 (Execution)
 
 
-**Phase 2: Test Design**
+ **Phase 2: Test Design**
 
-**Test Objectives**
+ **Test Objectives**
    - Verify that all features of the Clean City Waste Pickup Scheduler function correctly.
    - Validate the application’s performance under different conditions.
    - Ensure compatibility across various browsers and devices.
