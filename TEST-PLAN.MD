@@ -1,7 +1,7 @@
 # 🧪Test plan 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Project : Clean City Application
+Project : CleanCity Application
 
 Prepared by : Vuthlari Mabaso 
 
