@@ -1,6 +1,6 @@
-🫧CleanCity QA Test Report – Phase 2 & 3
+# 🫧CleanCity QA Test Report – Phase 2 & 3
 
-📽️Project: CleanCity App 
+# 📽️Project: CleanCity App 
 
   Software Tester: Nompumele A. Mthembu
 
