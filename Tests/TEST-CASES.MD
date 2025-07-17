@@ -28,17 +28,17 @@ End-to-end functional, non-functional, accessibility, and boundary test cases
 
 ### Functional Test Cases
 
-| TC ID  | Title                         | Preconditions         | Steps                                                                 | Expected Result |                      
+| TC ID  | Title                         | Preconditions         | Input                                                                 | Expected Result |                      
 |--------|-------------------------------|-----------------------|-----------------------------------------------------------------------|--------------------- |
-| TC-01  | User Registration             | Open App in browser   | 1. Go to registration<br>2. Enter valid name, email, password<br>3. Click Register | Success message appears, user added    |          |         |
-| TC-02  | User Login                    | User account exists   | 1. Go to login<br>2. Enter valid email, password<br>3. Click Login    | Redirected to dashboard                |          |         |
-| TC-03  | Invalid Login Attempt         | None                  | 1. Go to login<br>2. Enter invalid email/password<br>3. Click Login   | Error: "Invalid credentials"           |          |         |
-| TC-04  | Submit Waste Pickup Request   | User logged in        | 1. Open pickup form<br>2. Enter address, date, waste type<br>3. Click Submit | Request submitted, form resets         |          |         |
-| TC-05  | Submit Feedback Form          | App loaded            | 1. Fill name, rating, comment<br>2. Click Submit                      | "Thank you" message, form cleared      |          |         |
-| TC-06  | Admin Dashboard Loads Requests| Admin logged in       | 1. Log in as admin<br>2. Go to dashboard                              | Table of pickup requests visible       |          |         |
-| TC-07  | Update Pickup Status (Admin)  | Admin on dashboard    | 1. Click "Update" on request<br>2. Change status<br>3. Save           | Status updates immediately             |          |         |
-| TC-08  | Filter Requests by Status     | Admin on dashboard    | 1. Select status filter<br>2. Click Apply                             | Only filtered status requests shown    |          |         |
-| TC-09  | Filter Requests by Location   | Admin on dashboard    | 1. Select location filter<br>2. Click Apply                           | Only filtered location requests shown  |          |         |
+| TC-01  | User Registration             | Open App in browser   |  Enter valid name, email, password<br>3. Click Register | Success message appears, user added    |          |         |
+| TC-02  | User Login                    | User account exists   | Enter valid email, password<br>3. Click Login    | Redirected to dashboard                |          |         |
+| TC-03  | Invalid Login Attempt         | None                  |  Enter invalid email/password<br>3. Click Login   | Error: "Invalid credentials"           |          |         |
+| TC-04  | Submit Waste Pickup Request   | User logged in        |  Enter address, date, waste type<br>3. Click Submit | Request submitted, form resets         |          |         |
+| TC-05  | Submit Feedback Form          | App loaded            | Click Submit                      | "Thank you" message, form cleared      |          |         |
+| TC-06  | Admin Dashboard Loads Requests| Admin logged in       | Go to dashboard                              | Table of pickup requests visible       |          |         |
+| TC-07  | Update Pickup Status (Admin)  | Admin on dashboard    | Press Save           | Status updates immediately             |          |         |
+| TC-08  | Filter Requests by Status     | Admin on dashboard    | Click Apply                             | Only filtered status requests shown    |          |         |
+| TC-09  | Filter Requests by Location   | Admin on dashboard    | Click Apply                           | Only filtered location requests shown  |          |         |
 | TC-10  | Filter by Status & Location   | Admin on dashboard    | 1. Select both filters<br>2. Click Apply                              | Only requests matching both shown      |          |         |
 
 ---
