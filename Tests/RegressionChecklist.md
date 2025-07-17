@@ -7,7 +7,7 @@ Verify the critical flows and bugfixes after changes are made and making sure ev
 
 | Features            | Regression | Note            | 
 |---------------------|------------|-----------------|
-| Feedback submission | Cypress    | Input missing   |
+| Feedback submission | Cypress/Jira    | Input missing   |
 | User login/ logout  | Cypress    | Failed          |
 | User Registration   | Jest       | Cases retested  |
 | Dashboard filter    | BUG        | Blocked         |
