@@ -2,7 +2,7 @@ CleanCity QA Test Report – Phase 2 & 3
 
 Project: CleanCity App 
 
-software Tester: Nompumele A. Mthembu
+Software Tester: Nompumele A. Mthembu
 
 Report Date: 11 July 2025
 
